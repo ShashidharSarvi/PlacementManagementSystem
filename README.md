@@ -31,6 +31,10 @@ The system intends to do user-friendly operations which may resolve ambiguity. T
 <details>
   <summary>click here to see</summary>
 
+## CONTRIBUTERS
+1.Harshith Savanur
+2.Shashidhar Sarvi
+3.Harsha R B 
 
 ![login screen](https://github.com/Greeshma2903/placement-management-project/assets/70336930/5363c0d4-aa7f-4916-8985-23200f997ca0)
 ![companies list](https://github.com/Greeshma2903/placement-management-project/assets/70336930/24ca3e14-135b-4ba1-888f-41d0f1792b99)
